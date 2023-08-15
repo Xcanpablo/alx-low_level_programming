@@ -1,12 +1,12 @@
-#include "holberton.h"
+#include "_putchar"
 
 /**
- * main - This program prints the phrase Hello, World
+ * main - This program prints the phrase _putchar
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char ch[] = "Holberton";
+	char ch[] = "_putchar";
 	int i;
 
 	for (i = 0; ch[i] != '\0'; i++)
