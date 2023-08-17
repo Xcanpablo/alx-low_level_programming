@@ -1,1 +1,1 @@
-debuggimg
+debugging codes in c
